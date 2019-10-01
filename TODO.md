@@ -1,4 +1,5 @@
 # To do - Things to add
+* Bash: Learnings from 'https://github.com/JonasTaulienSolutions/bash-configuration/blob/master/configure-bash'
 * `npm --prefix ./angular-app run start`
 * CSS: Real viewport height on ios-safari 
     * in typescript
@@ -49,3 +50,8 @@
 * jooq: insert
 * jooq: fetch simple
 * jooq: fetch 1 to n
+* IntelliJ: Learnings from 'https://github.com/JonasTaulienSolutions/idea-plugin-context-free-grammar'
+* css: flexbox
+* css: BEM
+* learnings from 'https://github.com/JonasTaulienSolutions/playground' (then delete)
+* Learnings from articles from https://www.nickkolenda.com
