@@ -1,7 +1,7 @@
 # OpenAPI Generator - Generate Java models only
 ## Problem
 The [Maven plugin for the OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator/tree/master/modules/openapi-generator-maven-plugin)
-not only generated model classes but also a full api-client.
+not only generates model classes but also a full api-client.
 
 But we may want to only generate model classes.
 
