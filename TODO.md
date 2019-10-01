@@ -36,6 +36,7 @@
 * Angular reactive forms
 * Css styling input=range
 * JS: luxon
+* JS: rxjs
 * Angular @angular/cdk/overlay
 * HTML: Responsive SVG using viewBox and preserveAspectRatio
 * JWT in vertx and angular
@@ -55,3 +56,4 @@
 * css: BEM
 * learnings from 'https://github.com/JonasTaulienSolutions/playground' (then delete)
 * Learnings from articles from https://www.nickkolenda.com
+* opening localhost web-application on ios-device (with squidman or via cable)
