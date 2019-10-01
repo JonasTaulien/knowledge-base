@@ -12,6 +12,7 @@ We can use the 'typescript-angular' generator. But we then have to remove and mo
 ```bash
 typescript_models_generate(){
    out="src/app/generated/openapi-models"
+   spec="my-spec.yaml"
 
       echo "- Cleaning up" \
    && rm -rf "${out}" \
@@ -21,7 +22,7 @@ typescript_models_generate(){
          --type-mappings=Date=string \
          --model-name-prefix=Api \
          -p=stringEnums=true,fileNaming=kebab-case \
-         -i my-spec.yaml \
+         -i "${spec}" \
          -o "${out}" \
    && echo "- Removing unused files" \
    && cd "${out}" \
