@@ -14,8 +14,7 @@ Example: `db_exec 'SELECT * FROM user;'`
 ```bash
 db_exec_script(){
   pathToScript="${1}"
-  docker-compose exec -T mysql sh -c "exec mysql -uroot -hlocalhost -p\"\${MYSQL_ROOT_PASSWORD}\" -D\"\${MYSQL_DATABASE}\"" < "$
-{pathToScript}"
+  docker-compose exec -T mysql sh -c "exec mysql -uroot -hlocalhost -p\"\${MYSQL_ROOT_PASSWORD}\" -D\"\${MYSQL_DATABASE}\"" < "${pathToScript}"
 }
 ```
 
