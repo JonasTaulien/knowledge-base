@@ -5,7 +5,7 @@ All TypeScript-generators create full api-clients. But we may want to only gener
 ## Solution
 We can use the 'typescript-angular' generator. But we then have to remove and move some file.
 
-* This also Maps all `Date`s from the Spec to `strings` (otherwise it would map them to js-Dates, which are DateTimes, not Dates).
+* This also Maps all `Date`s from the Spec to `string`s (otherwise it would map them to js-Dates, which are DateTimes, not Dates).
 * This also prefixes all enums and classes with 'Api'
 * This configures the configurator to generate string enums (`MYENUM = "MY_ENUM"` instead of `MYENUM = 0`)
 
