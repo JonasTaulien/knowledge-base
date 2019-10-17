@@ -47,4 +47,7 @@ Here is a full example configuration:
 </project>
 ```
 
+Hint: You may also want to use [a `.openapi-generator-ignore`-File](https://github.com/OpenAPITools/openapi-generator/blob/master/docs
+/customization.md#ignore-file-format)
+
 [Source](https://github.com/OpenAPITools/openapi-generator/tree/master/modules/openapi-generator-maven-plugin)
