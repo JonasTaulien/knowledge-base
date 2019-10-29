@@ -25,6 +25,8 @@
         ```
     * then in css: `calc(var(--real-vh, 1vh) * 100)`)
 * Angular ViewChild/ContentChild & ViewChildren/ContentChildren
+    * ContentChildren also selects the Host-Element if it matches the selector
+    * Project ng-content through two levels and then selecting an element voa ContentChildren does not work
 * Angular: Place content children seperately using `<ng-template>` and a `TemplateMarkerDirective`
 * Angular ChangeDetectorRef & ExpressionChangedAfterEvaluatedException
 * Angular ControlValueAccessor
