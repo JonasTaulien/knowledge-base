@@ -12,7 +12,7 @@ export class XComponent{
 ```
 
 In `x.component.html`:
-```angular2html
+```html
 <ul>
     <li *ngFor="let controlName of Object.keys(form.controls)">
         {{controlName}}: {{ form.get(controlName).errors | json }}
