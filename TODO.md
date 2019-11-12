@@ -59,3 +59,4 @@
 * learnings from 'https://github.com/JonasTaulienSolutions/playground' (then delete)
 * Learnings from articles from https://www.nickkolenda.com
 * opening localhost web-application on ios-device (with squidman or via cable)
+* scss: `--var: $var` not working. Must be `--var: #{$var}`

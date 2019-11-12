@@ -4,3 +4,4 @@
 * [Docker / MySQL](./docker-mysql)
 * [Bash](./bash)
 * [User Experience](./user-experience)
+* [Angular](./angular)
