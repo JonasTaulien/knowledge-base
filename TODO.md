@@ -53,7 +53,7 @@
 * jooq: insert
 * jooq: fetch simple
 * jooq: fetch 1 to n
-* jooq: learnings from big hirecat query
+* jooq: learnings from big hirecat queries
 * jooq: writing bindings for POINT
 * IntelliJ: Learnings from 'https://github.com/JonasTaulienSolutions/idea-plugin-context-free-grammar'
 * css: flexbox

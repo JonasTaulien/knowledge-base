@@ -1,4 +1,6 @@
 # JavScript - Scroll by dragging
+[Try out](https://jsfiddle.net/5mkvxb3t/4/)
+
 ```html
 <!-- The drag-container must be scrollable in order for this to work -->
 <div id="drag-container">
