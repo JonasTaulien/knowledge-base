@@ -5,3 +5,4 @@
 * [Bash](./bash)
 * [User Experience](./user-experience)
 * [Angular](./angular)
+* [JavaScript/TypeScript](./javascript-typescript)

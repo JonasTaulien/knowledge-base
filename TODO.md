@@ -53,6 +53,8 @@
 * jooq: insert
 * jooq: fetch simple
 * jooq: fetch 1 to n
+* jooq: learnings from big hirecat query
+* jooq: writing bindings for POINT
 * IntelliJ: Learnings from 'https://github.com/JonasTaulienSolutions/idea-plugin-context-free-grammar'
 * css: flexbox
 * css: BEM
@@ -60,3 +62,4 @@
 * Learnings from articles from https://www.nickkolenda.com
 * opening localhost web-application on ios-device (with squidman or via cable)
 * scss: `--var: $var` not working. Must be `--var: #{$var}`
+* Shopify Dev
