@@ -58,6 +58,7 @@
 * IntelliJ: Learnings from 'https://github.com/JonasTaulienSolutions/idea-plugin-context-free-grammar'
 * css: flexbox
 * css: BEM
+* css: stack items using `grid`
 * learnings from 'https://github.com/JonasTaulienSolutions/playground' (then delete)
 * Learnings from articles from https://www.nickkolenda.com
 * opening localhost web-application on ios-device (with squidman or via cable)
