@@ -1,7 +1,6 @@
 # To do - Things to add
 * Bash: Learnings from 'https://github.com/JonasTaulienSolutions/bash-configuration/blob/master/configure-bash'
-    * if (not)
-    * Only install software if not installed
+    * exit early with `set -e`
 * `npm --prefix ./angular-app run start`
 * CSS: Real viewport height on ios-safari 
     * in typescript
