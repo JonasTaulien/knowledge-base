@@ -59,3 +59,21 @@
   }
 </script>
 ```
+
+## Using this inside an angular application
+Replace `dragContainer.addEventListener('mousemove', drag)` inside `startDrag()` with:
+```javascript
+constructor(
+    private zone: NgZone
+) {}
+...
+function startDrag(){
+  ...
+  this.zone.runOutsideAngular(() => {
+    dragContainer.addEventListener('mousemove', drag);
+  });
+  ...
+}
+```
+
+So angular does not execute change detection on every mouse move.
