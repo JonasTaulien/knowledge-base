@@ -29,8 +29,8 @@
 * Angular: Place content children separately using `<ng-template>` and a `TemplateMarkerDirective`
 * Angular ChangeDetectorRef & ExpressionChangedAfterEvaluatedException
 * Angular ControlValueAccessor
+* Angular ControlValueAccessor having async validation
 * Angular height-adjusting textarea
-* Angular wrapping ControlValueAccessor
 * Angular unit testing
 * Angular module-setup
 * Angular guards (with parameters)

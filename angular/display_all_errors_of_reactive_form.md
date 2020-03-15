@@ -1,5 +1,10 @@
 # Angular - Display all errors of reactive form
-(Only ment for debug purposes)
+## Problem
+`formGroup.errors` only includes errors that were added to the form itself, not those errors added to any form control inside of it.
+
+
+## Solution
+(Should only be used for debugging purposes)
 
 In `x.component.ts`:
 ```typescript
