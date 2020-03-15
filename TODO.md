@@ -75,3 +75,4 @@
 * local https with mkcert
 * using flyway with jooq
 * learnings from FM-Project
+* https on EC2 using certbot
