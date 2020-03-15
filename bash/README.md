@@ -5,3 +5,4 @@
 ## Knowledge
 * [Use variables from .env file](./use_variables_from_env_file.md)
 * [Calculate absolute path](./calculate_absolute_path.md)
+* [Export function](./export_function.md)
