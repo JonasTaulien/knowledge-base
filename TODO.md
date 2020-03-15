@@ -1,5 +1,4 @@
 # To do - Things to add
-* `npm --prefix ./angular-app run start`
 * CSS: Real viewport height on ios-safari 
     * in typescript
 
@@ -30,11 +29,14 @@
 * Angular ChangeDetectorRef & ExpressionChangedAfterEvaluatedException
 * Angular ControlValueAccessor
 * Angular ControlValueAccessor having async validation
+* Angular wrap ControlValueAccessor
 * Angular height-adjusting textarea
 * Angular unit testing
 * Angular module-setup
 * Angular guards (with parameters)
 * Angular reactive forms
+* Angular: load config before starting application
+* Angular generating uid for custom input components
 * Css styling input=range
 * JS: luxon
 * JS: rxjs
@@ -58,8 +60,18 @@
 * css: flexbox
 * css: BEM
 * css: stack items using `grid`
+* detect IE11 / Edge
 * learnings from 'https://github.com/JonasTaulienSolutions/playground' (then delete)
 * Learnings from articles from https://www.nickkolenda.com
 * opening localhost web-application on ios-device (with squidman or via cable)
 * scss: `--var: $var` not working. Must be `--var: #{$var}`
 * Shopify Dev
+* Docker setup for https on apache
+* Docker setup for https on vert.x application
+* .htaccess
+    * non-www to www
+    * http -> https
+    * using gzip
+* local https with mkcert
+* using flyway with jooq
+* learnings from FM-Project
