@@ -1,6 +1,4 @@
 # To do - Things to add
-* Bash: Learnings from 'https://github.com/JonasTaulienSolutions/bash-configuration/blob/master/configure-bash'
-    * exit early with `set -e`
 * `npm --prefix ./angular-app run start`
 * CSS: Real viewport height on ios-safari 
     * in typescript
@@ -28,7 +26,7 @@
 * Angular ViewChild/ContentChild & ViewChildren/ContentChildren
     * ContentChildren also selects the Host-Element if it matches the selector
     * Project ng-content through two levels and then selecting an element voa ContentChildren does not work
-* Angular: Place content children seperately using `<ng-template>` and a `TemplateMarkerDirective`
+* Angular: Place content children separately using `<ng-template>` and a `TemplateMarkerDirective`
 * Angular ChangeDetectorRef & ExpressionChangedAfterEvaluatedException
 * Angular ControlValueAccessor
 * Angular height-adjusting textarea

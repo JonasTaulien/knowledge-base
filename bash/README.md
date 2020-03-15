@@ -8,3 +8,4 @@
 * [Export function](./export_function.md)
 * [Shebang](./shebang.md)
 * [If](./if.md)
+* [Exit early](./exit_early.md)
