@@ -1,4 +1,4 @@
-# OpenAPI Generator - Generate Java models only
+# OpenAPI Generator - Generate TypeScript models only
 ## Problem
 All TypeScript-generators create full api-clients. But we may want to only generate model classes.
 
