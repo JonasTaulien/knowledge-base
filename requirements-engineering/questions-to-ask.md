@@ -15,7 +15,7 @@ They all should help to answer the following questions:
 * Weshalb ist das jetzt gerade für euch wichtig?
 * Welche Probleme soll die Software lösen?
 * Bis wann muss eine Lösung vorhanden sein (Timeline)?
-* Hast du danach gesucht, was deine Otionen sind? Weshalb sind die nicht gut genug?
+* Hast du danach gesucht, was deine Optionen sind? Weshalb sind die nicht gut genug?
 * Wie ernst nimmst du \_\_\_?
 * Warum ist dir \_\_\_ wichtig?
 * Weshalb ist dir \_\_\_ nicht so wichtig?
@@ -30,6 +30,7 @@ They all should help to answer the following questions:
 * Gibt es noch etwas anderes, das ich gefragt haben sollte?
 * Warum machst du nicht genau jetzt \_\_\_ um dein Problem zu lösen?
 * Hast du \_\_\_ schon einmal ausprobiert?
+* Wie groß ist das Volumen an Datensätzen, die verarbeitet werden müssen?
 
 ## Finanziell
 * Wo verliert ihr Geld mit der derzeitigen Lösung?
@@ -47,8 +48,6 @@ They all should help to answer the following questions:
 * Wie viel Zeit nimmt die Lösung in Anspruch?
 * Hast du nach einer besseren Lösung gesucht? Wenn ja, was ist der springende Punkt? Wenn nein, weshalb nicht?
 * Gibt es dafür eine Dokumentation oder sonstige Dokumente die ich mir anschauen kann?
-* Mit was für Endgeräten arbeitet ihr?
-* Wie groß ist das Volumen an Datensätzen, die verarbeitet werden müssen?
 
 ## Antworten auf spezifische Funktionsanfragen
 * Warum möchtest du die Funktion?
@@ -78,3 +77,8 @@ They all should help to answer the following questions:
 * Welche Art von Daten soll die Software mit den anderen IT-Systemen austauschen?
 * In welchem Intervall/zu welchem Zeitpunkt soll eine Kommunikation mit anderen IT-Systeme statt finden?
 
+## Nicht-funktionale Anforderungen
+* Welche Endgeräte (PC, Tablet, Mobile?) verwenden die Personen, die die Software verwenden sollen?
+* Welche Browser werden verwendet/Sind installiert?
+* Soll sich die Software in verschiedenen Regionen der Welt anders verhalten?
+* In welcher Sprache soll die Software Text anzeigen?
