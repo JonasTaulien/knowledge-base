@@ -9,7 +9,7 @@ db_backup_create(){
 
 ## Restore:
 Precondition: Have function `db_exec_script <statement>` from 
-[Docker / MySQL - Execute statement or script](./execute_statement_or_script.md) available.
+[Docker / MySQL - Execute statement or script](execute_statement_or_script.md) available.
 
 ```bash
 db_backup_restore(){

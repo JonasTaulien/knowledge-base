@@ -5,7 +5,7 @@ is ready.
 
 ## Solution
 Precondition: Have function `db_exec <statement>` from 
-[Docker / MySQL - Execute statement or script](./execute_statement_or_script.md) available.
+[Docker / MySQL - Execute statement or script](execute_statement_or_script.md) available.
 
 The following bash-function returns only after the database is ready:
 ```bash
