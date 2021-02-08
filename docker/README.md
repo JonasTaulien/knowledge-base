@@ -6,3 +6,4 @@
 ## Knowledge
 * [Docker / MySQL](mysql)
 * [ADD vs. COPY](add-vs-copy.md)
+* [ENTRYPOINT vs. CMD](entrypoint-vs-cmd.md)
