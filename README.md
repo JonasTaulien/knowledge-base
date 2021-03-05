@@ -1,6 +1,7 @@
 # My knowledge base
 * [Requirements Engineering](./requirements-engineering)
 * [jOOQ](./jooq)
+* [RxJava](./rxjava)
 * [OpenAPI Generator](./openapi-generator)
 * [Docker](docker)
     * [Docker / MySQL](docker/mysql)
