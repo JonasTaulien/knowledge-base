@@ -36,7 +36,7 @@ if ((Test-Admin) -eq $false)  {
 }
 
 Set-Location "$workingDirOverride"
-##### STOP ELEVATE TO ADMIN #####
+##### END ELEVATE TO ADMIN #####
 
 # Add actual commands to be executed in elevated mode here:
 Write-Output "I get executed in an admin PowerShell"
