@@ -10,3 +10,4 @@
 * [Angular](./angular)
 * [JavaScript/TypeScript](./javascript-typescript)
 * [npm](./npm)
+* [PowerShell](./powershell)
