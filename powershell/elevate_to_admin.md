@@ -29,6 +29,7 @@ if ((Test-Admin) -eq $false)  {
         Write-Output "Elevating did not work :("
 
     } else {
+        #                                                         vvvvv add `-noexit` here for better debugging vvvvv 
         Start-Process powershell.exe -Verb RunAs -ArgumentList ('-noprofile -file "{0}" -shouldAssumeToBeElevated -workingDirOverride "{1}"' -f ($myinvocation.MyCommand.Definition, "$workingDirOverride"))
     }
     exit
@@ -36,4 +37,7 @@ if ((Test-Admin) -eq $false)  {
 
 Set-Location "$workingDirOverride"
 ##### STOP ELEVATE TO ADMIN #####
+
+# Add actual commands to be executed in elevated mode here:
+Write-Output "I get executed in an admin PowerShell"
 ```
