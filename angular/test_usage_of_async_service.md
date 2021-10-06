@@ -25,11 +25,6 @@ you will not detect that error
 1. Add an `delay(0)` to the observable to schedule it for the next tick
 2. Wrap the test in `fakeAsync(() => { test })`
 3. Call `tick(0)` followed by `componentFixture.detectChanges()`
-4. Remember to add the following import to your `test.ts`
-
-    ```ts
-    import 'zone.js/dist/zone-patch-rxjs-fake-async'
-    ```
 
 Complete example:
 
